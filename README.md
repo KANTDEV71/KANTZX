@@ -2,7 +2,7 @@
 
 ```
 pkg install git
-git clone https://github.com/KRATOSmdzkk23/Akame-bot
+git clone https://github.com/KANTDEV71/KANTZX.git
 cd Akame-bot
 bash install.sh
 npm i encodeurl
